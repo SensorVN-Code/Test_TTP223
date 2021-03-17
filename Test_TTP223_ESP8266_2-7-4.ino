@@ -1,5 +1,9 @@
 /*
   Created by SENSORVN.COM, February 18, 2021.
+  Wiring
+  VCC -> 3.3V
+  GND -> GND
+  SIG -> GPIO4
 */
 #define SIG 4
 #define LED 14
